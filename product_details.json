@@ -1,0 +1,11 @@
+{
+    "Name": "Laptop Bag",
+    "Price": 35.5,
+    "Quantity": 8,
+    "Categorie": [
+        "Acessories",
+        "Bags"
+    ],
+    "Available": true,
+    "stock_value": 284.0
+}
